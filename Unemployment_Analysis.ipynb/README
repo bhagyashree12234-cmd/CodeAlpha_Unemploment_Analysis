@@ -1,0 +1,9 @@
+Unemployment Analysis in India
+This project analyzes unemployment trends in India using Python.
+Tools & Libraries:
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Objective: To analyze unemployment rates across different states and regions of India through data analysis and visualization.
